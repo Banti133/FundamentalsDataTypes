@@ -1,1 +1,1 @@
-# FundamentalsDataTypes
+# FundamentalsDataTypes and inheritance
